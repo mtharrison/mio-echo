@@ -1,0 +1,7 @@
+[package]
+name = "mio-echo"
+version = "0.1.0"
+authors = ["Matt Harrison <hi@matt-harrison.com>"]
+
+[dependencies]
+mio = "0.6"
